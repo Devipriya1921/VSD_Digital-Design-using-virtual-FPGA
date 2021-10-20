@@ -62,13 +62,13 @@ More details about TL-Verilog: https://www.redwoodeda.com/tl-verilog
 
 ## FPGA Boards 
 
-```
+
 1. Zedboard Zynq-7000 ARM/FPGA SoC Development Board ([Product Link](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/))
 2. EDGE Artix 7 FPGA Development Board ([Product Link](https://allaboutfpga.com/product/edge-artix-7-fpga-development-board/))
 3. Basys 3 Artix-7 FPGA Trainer Board ([Product Link](https://store.digilentinc.com/basys-3-artix-7-fpga-beginner-board-recommended-for-introductory-users/)) 
 4. Icebreaker FPGA ([Product Link](https://1bitsquared.com/products/icebreaker))
 5. Nexys A7 ([Product Link](https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/))
-```
+
 Currently we demonstrate using only these boards and we plan to add more boards in the future.
 
 
