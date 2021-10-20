@@ -151,15 +151,13 @@ https://user-images.githubusercontent.com/83152452/138102760-50f405a2-de58-4eb0-
 
 ## References
 
-```
 - https://github.com/BalaDhinesh/Digital-Design-on-FPGA--VSDOpen21.git
-```
+
 
 ## Author
 
-```
 - A Devipriya, Bachelor of Engineering (ECE), Cambridge Institute of Technology, Bangalore, adevipriya1900@gmail.com
-```
+
 
 ## Acknowledgement
 
