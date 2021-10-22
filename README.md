@@ -132,7 +132,7 @@ https://user-images.githubusercontent.com/83152452/138102760-50f405a2-de58-4eb0-
 ![makerchip-7segment-1](https://user-images.githubusercontent.com/83152452/138099971-2d6c7ad5-19e5-4b2a-87fa-25d4c807c8d3.png)
 
 
-### Traffic light controller starter [click here](https://makerchip.com/sandbox/0v2fWhWqR/0JZhQm2)
+### Traffic light controller starter [click here](https://www.makerchip.com/sandbox/0W6fjhr7Z/0g5hYPv#)
 
 ![makerchip-traffic](https://user-images.githubusercontent.com/83152452/138100399-e4a73391-ba59-4ccb-b69c-4d21b250be5a.png)
 
