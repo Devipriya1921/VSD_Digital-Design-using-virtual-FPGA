@@ -120,19 +120,19 @@ m4+fpga_sseg(*digit, *sseg, *dp)
 ![Makerchip-Template code - waveform-1](https://user-images.githubusercontent.com/83152452/138099947-428bb62c-f594-4ba9-9905-d8f6c3d1a924.png)
 
 
-### LED starter [click here](https://makerchip.com/sandbox/0v2fWhWqR/0KOhrvN)
+### LED starter [click here](https://makerchip.com/sandbox/0M8f5hN5W/0Mjh66l)
 
 ![makerchip-LED Starter](https://user-images.githubusercontent.com/83152452/138099961-2249f5a9-3cfd-48e7-96f2-5d703b9eb6bd.png)
 
 https://user-images.githubusercontent.com/83152452/138102760-50f405a2-de58-4eb0-9fe5-349f9422a05e.mp4
 
 
-### Seven segment display starter [click here](https://makerchip.com/sandbox/0v2fWhWqR/0Elh6Jx)
+### Seven segment display starter [click here](https://makerchip.com/sandbox/0M8f5hN5W/0NxhMMA)
 
 ![makerchip-7segment-1](https://user-images.githubusercontent.com/83152452/138099971-2d6c7ad5-19e5-4b2a-87fa-25d4c807c8d3.png)
 
 
-### Traffic light controller starter [click here](https://www.makerchip.com/sandbox/0W6fjhr7Z/0g5hYPv#)
+### Traffic light controller starter [click here](https://www.makerchip.com/sandbox/0G6fJhXGV/0LghYYj)
 
 ![makerchip-traffic](https://user-images.githubusercontent.com/83152452/138100399-e4a73391-ba59-4ccb-b69c-4d21b250be5a.png)
 
